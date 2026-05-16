@@ -1,0 +1,21 @@
+# Secrets
+.env
+config.py
+
+# Excel lead databases
+*.xlsx
+
+# Generated lead lists
+*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+.env/
